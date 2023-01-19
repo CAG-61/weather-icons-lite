@@ -9,7 +9,7 @@
 | wi-wu-fog                                                    | wi-darksky-fog                 | wi-owm-50d     | f014      |   ![](images/f014.jpg)   |
 |                                                              | wi-darksky-wind                |                | f050      |   ![](images/f050.jpg)   |
 |                                                              | wi-darksky-cloudy              | wi-owm-04d     | f013      |   ![](images/f013.jpg)   |
-| wi-wu-cloudy<br />wi-wu-mostlycloud<br />wi-wu-partlycloudy<br />wi-wu-partlysunny | wi-darksky-partly-cloudy-day   | wi-owm-03d     | f002      |   ![](images/f002.jpg)   |
+| wi-wu-cloudy<br />wi-wu-mostlycloudy<br />wi-wu-partlycloudy<br />wi-wu-partlysunny | wi-darksky-partly-cloudy-day   | wi-owm-03d     | f002      |   ![](images/f002.jpg)   |
 | wi-wu-nt_partlysunny                                         | wi-darksky-partly-cloudy-night | wi-owm-04n     | f086      |   ![](images/f086.jpg)   |
 |                                                              | wi-darksky-hail                |                | f015      |   ![](images/f015.jpg)   |
 | wi-wu-chancetstorm<br />wi-wu-tstorms                        | wi-darksky-thunderstorm        | wi-owm-11d     | f01e      |   ![](images/f01e.jpg)   |
